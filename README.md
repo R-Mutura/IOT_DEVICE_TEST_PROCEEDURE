@@ -46,7 +46,7 @@ To see the serial data as sent or received from either of the boards we can use 
 
 # WORKING
 Testing includes a visual display of words on the TFT display.
-On connecting power, The %V led turns on and the other power rails can be tested via the shown test points
-The buttons are pressed and the sorresponding position is displayed on the screen.
+</br>  On connecting power, The 5V led turns on and the other power rails can be tested via the shown test points
+</br> The buttons are pressed and the corresponding position is displayed on the screen.
 
 ## TESTING
