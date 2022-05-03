@@ -1,7 +1,8 @@
 # IOT_DEVICE_TEST_PROCEEDURE
 This repo contains instructions on how to test the IOT DEVICE
 
-### Voltage Test Points
+### Voltage and Test Points
+DC input via Female Jack MAXIMUM 15V.
  - TP1 => 5V
  - TP2 => +3V3 (3.3V)
  - TP3 => +1V2 (1.2V)
