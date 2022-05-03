@@ -49,4 +49,4 @@ Testing includes a visual display of words on the TFT display.
 </br>  On connecting power, The 5V led turns on and the other power rails can be tested via the shown test points
 </br> The buttons are pressed and the corresponding position is displayed on the screen.
 
-## TESTING
+### END
